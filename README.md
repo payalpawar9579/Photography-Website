@@ -1,6 +1,6 @@
 # Photography-Website
 
-![image](https://github.com/user-attachments/assets/a19e26e6-d368-4070-8db8-f4bf37a030be)
+
 
 
 ![image](https://github.com/user-attachments/assets/1882507c-a059-4e00-a1c4-7bb7c355c458)
